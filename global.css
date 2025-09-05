@@ -90,7 +90,7 @@
   background-position: top;
   text-align: left;
   font-size: 64px;
-  color: var(--Background-color-primary);
+  color: var(--color-darkslateblue-200);
 }
 .div,
 .text-container {
@@ -218,6 +218,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
+  background-color: var(--color-darkslateblue-200);
 }
 .section-heading {
   flex: 1;
@@ -1287,4 +1288,5 @@
   justify-content: flex-start;
   font-size: var(--font-size-14);
 }
+
 
