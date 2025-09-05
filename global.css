@@ -84,6 +84,7 @@
   align-content: flex-start;
   padding: 120px 56px 240px;
   gap: 91px;
+  background-image: url('Hero_Section.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -1286,3 +1287,4 @@
   justify-content: flex-start;
   font-size: var(--font-size-14);
 }
+
