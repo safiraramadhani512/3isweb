@@ -175,7 +175,7 @@
 .video-player {
   width: 606px;
   border-radius: 45px;
-  background-color: var(--color-gainsboro);
+/*   background-color: var(--color-gainsboro); */
   height: 491px;
   display: flex;
   flex-direction: row;
@@ -1289,6 +1289,7 @@
   justify-content: flex-start;
   font-size: var(--font-size-14);
 }
+
 
 
 
