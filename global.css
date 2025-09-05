@@ -90,7 +90,7 @@
   background-position: top;
   text-align: left;
   font-size: 64px;
-  color: var(--color-darkslateblue-200);
+  color: var(--Background-color-primary);
 }
 .div,
 .text-container {
@@ -215,6 +215,7 @@
   align-content: center;
   padding: 59px 86px;
   gap: 72px 0;
+  border-radius: 20px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -225,7 +226,7 @@
   flex-direction: column;
   justify-content: flex-start;
   gap: 25px;
-  min-width: 300px;
+  min-width: 200px;
 }
 .section-title {
   width: 408px;
@@ -1288,5 +1289,6 @@
   justify-content: flex-start;
   font-size: var(--font-size-14);
 }
+
 
 
