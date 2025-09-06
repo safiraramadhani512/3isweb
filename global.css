@@ -2,7 +2,7 @@
 .navbar {
   display: flex;
   align-items: center;
-  position: fixed;
+  
 }
 .homepage {
   width: 100%;
@@ -27,6 +27,7 @@
   text-align: left;
   font-size: var(--font-size-16);
   color: var(--color-floralwhite);
+  position: fixed;
 }
 .logo-icon {
   flex: 1;
@@ -1302,6 +1303,7 @@
   justify-content: flex-start;
   font-size: var(--font-size-14);
 }
+
 
 
 
