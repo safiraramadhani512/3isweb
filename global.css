@@ -51,10 +51,16 @@
   gap: var(--gap-24);
   min-width: 136px;
   min-height: 3.55px;
-}
-.about-us {
+
+.about-us, 
+.about-us:visited, 
+.about-us:hover, 
+.about-us:active {
   position: relative;
   line-height: 150%;
+  color: var(--color-floralwhite);
+  text-decoration: none; /* hilangin underline */
+  font-weight: bold;     /* biar tetep tebel kayak <b> */
 }
 .button-primary {
   flex: 0.8158;
@@ -2145,6 +2151,7 @@
   line-height: 44px;
   display: inline-block;
 }
+
 
 
 
