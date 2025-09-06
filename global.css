@@ -621,6 +621,7 @@
 .blog-1 {
   overflow: hidden;
   padding: var(--padding-60) var(--padding-100);
+  background-image: url('Blog_1.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -1298,6 +1299,7 @@
   justify-content: flex-start;
   font-size: var(--font-size-14);
 }
+
 
 
 
