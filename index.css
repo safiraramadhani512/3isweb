@@ -9,17 +9,14 @@ body {
   --color-palegreen: #cfff8c;
   --color-lavender: #f1f0ff;
   --color-seashell: #fff5eb;
-  --color-gray: #080717;
+  --color-gray-200: #080717;
+  --color-gray-100: #13131a;
   --color-aliceblue: #e2f8ff;
   --color-gainsboro: #d9d9d9;
-  --color-darkslategray-100: #173b47;
   --color-yellowgreen: #a3e65a;
   --color-floralwhite: #fcfdf5;
   --color-darkslateblue-200: #1e3860;
   --color-darkslateblue-100: #294170;
-  --slate-100: #f1f5f9;
-  --neutral-600: #525252;
-  --neutral-900: #171717;
   --Green-Lime: #b9f761;
   --White: #fff;
   --Egg-White: #f2f4ef;
@@ -35,38 +32,34 @@ body {
   --gap-32: 32px;
   --gap-40: 40px;
   --gap-48: 48px;
-  --gap-60: 60px;
-  --gap-64: 64px;
   --gap-80: 80px;
 
   /* Padding */
   --padding-4: 4px;
   --padding-8: 8px;
+  --padding-10: 10px;
   --padding-12: 12px;
   --padding-16: 16px;
   --padding-20: 20px;
   --padding-24: 24px;
-  --padding-36: 36px;
   --padding-40: 40px;
   --padding-60: 60px;
   --padding-64: 64px;
   --padding-100: 100px;
 
   /* BorderRadius */
-  --br-12: 12px;
   --br-20: 20px;
   --br-30: 30px;
   --br-100: 100px;
 
   /* Font */
-  --font-inter: Inter;
+  --font-outfit: Outfit;
   --font-line-seed-sans: LINE Seed Sans;
 
   /* FontSize */
   --font-size-14: 14px;
   --font-size-16: 16px;
   --font-size-18: 18px;
-  --font-size-20: 20px;
   --font-size-24: 24px;
   --font-size-36: 36px;
   --font-size-40: 40px;
