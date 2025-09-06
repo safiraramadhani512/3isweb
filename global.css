@@ -173,7 +173,7 @@
   line-height: 24px;
 }
 .video-player {
-  width: 100%;
+  max-width: 50%;
   border-radius: 45px;
 /*   background-color: var(--color-gainsboro); */
   height: 491px;
@@ -1298,6 +1298,7 @@
   justify-content: flex-start;
   font-size: var(--font-size-14);
 }
+
 
 
 
