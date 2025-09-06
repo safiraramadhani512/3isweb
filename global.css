@@ -62,6 +62,7 @@
   text-decoration: none; /* hilangin underline */
   font-weight: bold;     /* biar tetep tebel kayak <b> */
 }
+  
 .button-primary {
   flex: 0.8158;
   border-radius: var(--br-100);
@@ -2151,6 +2152,7 @@
   line-height: 44px;
   display: inline-block;
 }
+
 
 
 
