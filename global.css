@@ -2,6 +2,7 @@
 .navbar {
   display: flex;
   align-items: center;
+  position: fixed;
 }
 .homepage {
   width: 100%;
@@ -1300,6 +1301,7 @@
   justify-content: flex-start;
   font-size: var(--font-size-14);
 }
+
 
 
 
