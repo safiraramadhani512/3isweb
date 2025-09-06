@@ -92,6 +92,7 @@
   text-align: left;
   font-size: 64px;
   color: var(--Background-color-primary);
+  overflow-x: hidden;
 }
 .div,
 .text-container {
@@ -1301,6 +1302,7 @@
   justify-content: flex-start;
   font-size: var(--font-size-14);
 }
+
 
 
 
