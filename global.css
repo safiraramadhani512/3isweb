@@ -1202,8 +1202,8 @@
 .image-icon6 {
   width: 181px;
   position: relative;
-  height: 43px;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
 }
 .column4 {
   flex: 1;
@@ -1300,6 +1300,7 @@
   justify-content: flex-start;
   font-size: var(--font-size-14);
 }
+
 
 
 
