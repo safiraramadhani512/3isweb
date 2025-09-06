@@ -359,7 +359,7 @@
   flex-direction: column;
   align-items: center;
   gap: var(--gap-32);
-  min-width: 400px;
+  min-width: 300px;
 }
 .image-9-icon {
   width: 278.5px;
@@ -394,7 +394,7 @@
   align-items: center;
   justify-content: flex-start;
   gap: var(--gap-32);
-  min-width: 400px;
+  min-width: 300px;
 }
 .image-10-icon {
   width: 307.5px;
@@ -733,7 +733,7 @@
   align-items: center;
   justify-content: center;
   gap: var(--gap-24);
-  min-width: 380px;
+  min-width: 300px;
 }
 .image-12-icon {
   width: 339.5px;
@@ -765,7 +765,7 @@
   flex-direction: column;
   justify-content: flex-start;
   gap: var(--gap-24);
-  min-width: 380px;
+  min-width: 300px;
 }
 .button-secondary3 {
   width: 206px;
@@ -827,7 +827,7 @@
   flex-direction: column;
   justify-content: flex-start;
   gap: var(--gap-20);
-  min-width: 400px;
+  min-width: 300px;
 }
 .heading12,
 .icon,
@@ -899,7 +899,7 @@
   flex-direction: column;
   justify-content: flex-start;
   gap: var(--gap-20);
-  min-width: 400px;
+  min-width: 300px;
 }
 .content14,
 .testimonial {
@@ -1081,7 +1081,7 @@
 .card9 {
   flex: 1;
   flex-direction: column;
-  min-width: 360px;
+  min-width: 300px;
 }
 .image-icon3 {
   align-self: stretch;
@@ -1298,6 +1298,7 @@
   justify-content: flex-start;
   font-size: var(--font-size-14);
 }
+
 
 
 
