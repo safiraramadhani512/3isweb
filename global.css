@@ -52,15 +52,9 @@
   min-width: 136px;
   min-height: 3.55px;
 
-.about-us, 
-.about-us:visited, 
-.about-us:hover, 
-.about-us:active {
+.about-us {
   position: relative;
   line-height: 150%;
-  color: var(--color-floralwhite);
-  text-decoration: none; /* hilangin underline */
-  font-weight: bold;     /* biar tetep tebel kayak <b> */
 }
   
 .button-primary {
@@ -2152,6 +2146,7 @@
   line-height: 44px;
   display: inline-block;
 }
+
 
 
 
