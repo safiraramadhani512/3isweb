@@ -1386,6 +1386,7 @@
 }
 .services-products-container {
   padding: 98px 0;
+  background-image: url('asset/services/bg.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -1764,6 +1765,7 @@
   white-space: pre-wrap;
   text-align: left;
 }
+
 
 
 
