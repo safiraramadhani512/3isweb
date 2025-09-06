@@ -804,3 +804,37 @@
   height: 72px;
   z-index: 7;
 }
+
+.container,
+.section-heading {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.container {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-content: center;
+  padding: 59px 86px;
+  gap: 72px 0;
+  border-radius: 20px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-color: var(--color-darkslateblue-200);
+}
+.section-heading {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 25px;
+  min-width: 200px;
+}
+.section-title {
+  width: 408px;
+  position: relative;
+  line-height: 44px;
+  display: inline-block;
+}
