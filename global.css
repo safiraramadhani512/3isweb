@@ -26,8 +26,8 @@
   text-align: left;
   font-size: var(--font-size-16);
   color: var(--color-floralwhite);
-  width: 100%;
-  position: fixed;
+/*   width: 100%;
+  position: fixed; */
 }
 .logo-icon {
   flex: 1;
@@ -1303,6 +1303,7 @@
   justify-content: flex-start;
   font-size: var(--font-size-14);
 }
+
 
 
 
